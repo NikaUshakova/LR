@@ -1,0 +1,16 @@
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\bin\Debug\net5.0\ЛР5.exe
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\bin\Debug\net5.0\ЛР5.deps.json
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\bin\Debug\net5.0\ЛР5.runtimeconfig.json
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\bin\Debug\net5.0\ЛР5.runtimeconfig.dev.json
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\bin\Debug\net5.0\ЛР5.dll
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\bin\Debug\net5.0\ref\ЛР5.dll
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\bin\Debug\net5.0\ЛР5.pdb
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\obj\Debug\net5.0\ЛР5.csproj.AssemblyReference.cache
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\obj\Debug\net5.0\ЛР5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\obj\Debug\net5.0\ЛР5.AssemblyInfoInputs.cache
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\obj\Debug\net5.0\ЛР5.AssemblyInfo.cs
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\obj\Debug\net5.0\ЛР5.csproj.CoreCompileInputs.cache
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\obj\Debug\net5.0\ЛР5.dll
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\obj\Debug\net5.0\ref\ЛР5.dll
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\obj\Debug\net5.0\ЛР5.pdb
+C:\Users\Nika_Ushakova\Documents\BSU\Структуры\ЛР5\obj\Debug\net5.0\ЛР5.genruntimeconfig.cache
